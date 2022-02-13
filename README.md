@@ -1,6 +1,6 @@
 # average_length_lyrics
 
-average_length_lyrics is a CLI application that, through interaction with Musicbrainz and lyrics.ovh API, produces the average
+average_lyrics_length is a CLI application that, through interaction with Musicbrainz and lyrics.ovh API, produces the average
 (mean) number of words in an artist's songs.
 
 ## Installation
