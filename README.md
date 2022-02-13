@@ -21,7 +21,7 @@ In the app folder
 # artist: artist name (for names with space, use quote e.g. "artist name")
 python main.py artist
 
-# self define number of records to return (1 <= limit <= 100)
+# self define maximum number of records to return (1 <= limit <= 100)
 python main.py artist --limit 100
 
 # help page
